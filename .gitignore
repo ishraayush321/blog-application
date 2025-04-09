@@ -1,0 +1,15 @@
+# Ignore Node.js dependencies
+/BlogWeb/node_modules/
+
+# Ignore Angular build files
+/BlogWeb/dist/
+
+# Ignore Spring Boot build files
+/blogServer/target/
+
+# Ignore IDE and system files
+*.idea/
+*.vscode/
+*.iml
+.DS_Store
+Thumbs.db
